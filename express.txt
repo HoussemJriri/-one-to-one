@@ -1,0 +1,30 @@
+1.What’s express?
+express huwa framework mtaa node.js w huwa eli bsh y5alina ne5demou b https w nal9aw fyh engines view w middleware.
+2.How to install express?
+npm i express.
+3.What’s express generator tool?
+y3awna nal9aw package 7adhra w maaha template .
+4.What’s nodemon?
+nodemon y3awena wakit ndevlopiw bsh y5alina server live dima .
+5.How we can start “server.js” with nodemon?
+nsbobo nodemon npm i nodemon --save-d bsh yetsab f dependencies wa7adha 5ater hachetna bih ken wakit developpement nhebouhouch yetsab f package.json
+w ba3ed f terminal npm run server.js w waktha kol save server y3awd compili w nal9aw 7adher.
+6.What are the basics steps to create a server?
+ * http library
+ *sever using http library
+ *content header
+ *response.end
+ * port 
+7.How can you define a route?
+route hya relation bin client side ( browser , .. ) w server side.
+ bin request w respond w lahne bsh nwaliw nestha9ou lel http methods
+8.The method all is used to?
+get post put delete
+9.What’s a middleware?
+middleware hya fonction  nestaamlou lel security , aandha acces lel req w res w te5ou 3eme paramater next () bsh to93edch mebloukia excution .
+10.Give us three examples of a third party middleware of express?
+bodyParser , Morgan w Helmet
+11.What’s the use of a template engine
+t3awena bech page html mteena tkoun sehla w b a9al tags w tkou azyen
+12.List three examples of a template engine used in express?
+pug , hbs , ejs

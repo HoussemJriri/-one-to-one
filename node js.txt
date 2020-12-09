@@ -1,0 +1,23 @@
+1. What is difference between synchronous and asynchronous method of fs module?
+synchronus to93ed testana operation bsh tekml bech tnajem tet3ada lel operation eli ba3dha par contre asynchronus matestanech it executes all operations mab3adhom.
+2.Which module is used for web based operations?
+http module
+var http =require ('http)
+3.Which module is used for file based operations?
+fs module
+var fs =require('fs')
+4.How Node prevents blocking code?
+b callback function.
+5.What is "a blocking code"?
+When javascript execution in Node.js process has to wait until a non-javascript operation completes.
+6.What is Callback?
+ A callback is a function called at the completion of a given task.
+ this prevents any blocking, and allows other code to be run in the meantime.
+7.What is package.json?
+package.json hedhii pack nsobouha ki nabdew app mte3na nsobouha b npm init bsh nal9aw feha author w description .... , w dependencies w scripts .
+8.Name some of the attributes of package.json?
+fama name , description , license , scripts, repository, keywords ....
+
+
+
+

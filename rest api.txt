@@ -1,0 +1,25 @@
+1.What is the difference between NoSQL and SQL ?
+sql relational data base par contre Nosql non -relational
+sql vertical scalable par contre nosql horizontal scalable 
+sql ye5ou des schemas predefinis par contre nosql dynamic
+sql basé ala tableau w nosql al key value ( json format).
+2.What is the difference between mongo and mongod?
+The difference between the both commands is that mongod starts the mongodb server and mongo allows you to enter into mongo shell to perform further database operations.
+3.How to create a new document in MongoDB ?
+naaml data base w naaml collection w ba3ed nestaaml insert 
+4.What is mongoose?
+mongoose huwa ODM ( Object Document Mapper) . huwa eli bsh yorbet bin server node w data base mteena . yji kel couche fou9 server w bsh y3awna brcha bsh nal9aw fyh schema w .....
+5.What is a Schema in mongoose?
+hya structure mtaa docuement bsh nal9aw key w value 
+6.What is a model in mongoose?
+  is a wrapper on the Mongoose schema
+7.What is a request and how its related to a REST API ?
+request hia message men client side temshi lel server w tkoun marbouta b rest api 5ater ye5dem b http request bsh ywali aandou acces w use data
+8.In which HTTP methods we can use request body?
+post w put 
+9.What's the default status code for success ?
+Les réponses informatives (100 - 199),
+Les réponses de succès (200 - 299),
+Les redirections (300 - 399),
+Les erreurs du client (400 - 499),
+ Les erreurs du serveur (500 - 599).
